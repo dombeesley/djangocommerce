@@ -28,7 +28,7 @@ SECRET_KEY = 'w&0xhlh8wle^p@yh_=@jpps-_xd%3eekqu(0!w&n@)-a3k_=$y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME'), '127.0.0.1', 'https://ecomminipro.herokuapp.com']
+ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME'), '127.0.0.1', 'ecomminipro.herokuapp.com']
 
 
 # Application definition
